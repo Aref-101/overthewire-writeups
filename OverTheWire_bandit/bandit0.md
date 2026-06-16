@@ -4,12 +4,28 @@
 
 **Goal:** Log in to the Bandit SSH server on port 2220
 
-**Solution:**
+**Tried:**
 ```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
-**Password:** none
+<details>
+<summary>Solution</summary>
+
+```bash
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+```
+
+</details>
+
+<details>
+<summary>Password</summary>
+
+```
+none
+```
+
+</details>
 
 **What I learned:**
 - `-p` flag lets you specify a custom SSH port (default is 22)
