@@ -8,7 +8,7 @@
 ```bash
 cat "./--spaces in this filename--"     # fail
 cat "--spaces in this filename--"       # fail
-cat ./--spaces\ in\ this\ filename\--  
+cat ./--spaces\ in\ this\ filename\--   
 ```
 
 <details>
