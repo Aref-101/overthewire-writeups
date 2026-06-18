@@ -1,6 +1,6 @@
 # Bandit N
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-6-17
 
 **Goal:** 
 The password for the next level is stored in a hidden file in the inhere directory.
