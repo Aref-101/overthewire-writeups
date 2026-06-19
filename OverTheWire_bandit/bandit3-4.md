@@ -27,7 +27,7 @@ cat ...Hiding-From-You
 <summary>Password</summary>
 
 ```
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+redacted
 ```
 
 </details>

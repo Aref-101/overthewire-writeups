@@ -23,7 +23,7 @@ cat readme
 <summary>Password</summary>
 
 ```
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+redacted
 ```
 
 </details>

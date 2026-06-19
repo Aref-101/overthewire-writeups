@@ -28,7 +28,7 @@ the first one is cleaner in case of bigger files
 <summary>Password</summary>
 
 ```
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+redacted
 
 ```
 

@@ -1,4 +1,4 @@
-# Bandit N
+# Bandit 5-6
 
 **Date:** 2026-6-18
 
@@ -38,7 +38,7 @@ find -type f ! -executable -size 1033c
 <details>
 <summary>Password</summary>
 
-```HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+```redacted
 ```
 
 </details>

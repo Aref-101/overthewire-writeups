@@ -24,7 +24,7 @@ cat ./--spaces\ in\ this\ filename\--
 <summary>Password</summary>
 
 ```
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+redacted
 ```
 
 </details>
