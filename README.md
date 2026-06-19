@@ -1,17 +1,16 @@
-# Cybersecurity Learning Journal
+# OverTheWire Writeups
 
-Personal notes and writeups as I work through HackTheBox modules and OverTheWire wargames. CTF stuff will be added eventually.
+Personal writeups as I work through OverTheWire wargames.
 
----
+## Wargames
 
-## What's in here
+| Wargame | Status |
+|---------|--------|
+| [Bandit](./OverTheWire_bandit/) | In progress |
+| Natas | Not started |
+| Leviathan | Not started |
 
-- **HackTheBox** — module notes and retired machine writeups
-- **OverTheWire** — wargame progress and notes
-- **CTF** — coming at some point
+## Notes
 
----
-
-## Note
-
-HTB writeups are only for retired content. Everything here is for learning purposes.
+- Passwords are redacted
+- Writeups are for learning purposes only
