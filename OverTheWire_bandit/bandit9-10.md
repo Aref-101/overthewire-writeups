@@ -15,7 +15,7 @@ man string
 <summary>Solution</summary>
 
 ```bash
-string data.txt
+strings data.txt
 ```
 
 </details>
@@ -30,4 +30,4 @@ redacted
 </details>
 
 **What I learned:**
-- usage of string command
+- usage of strings command
