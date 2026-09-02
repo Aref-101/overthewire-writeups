@@ -18,6 +18,7 @@ cat
 ```bash
 two solutions
 1. file ./* and then cat ./-file07
+cd ./inhere
 2.or just cat./* which reads all
 the first one is cleaner in case of bigger files
 ```

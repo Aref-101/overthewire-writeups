@@ -30,7 +30,7 @@ find ./ -type f -size 1033b
 find -type f -size 1033c 
 #the most accurate search would be this which includes all properties
 find -type f ! -executable -size 1033c
-
+cat ./inhere/maybehere07/.file2
 ```
 
 </details>

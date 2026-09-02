@@ -16,7 +16,7 @@ The password for the next level is stored in the file data.txt next to the word 
 <summary>Solution</summary>
 
 ```bash
-grep milionth data.txt
+grep millionth data.txt
 ```
 
 </details>
